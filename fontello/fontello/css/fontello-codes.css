@@ -1,0 +1,5 @@
+
+.icon-user:before { content: '\e800'; } /* '' */
+.icon-vcard:before { content: '\e801'; } /* '' */
+.icon-doc-text:before { content: '\e802'; } /* '' */
+.icon-edit:before { content: '\e803'; } /* '' */
