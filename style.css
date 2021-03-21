@@ -7,6 +7,14 @@ body
     margin: 0 !important;
 }
 
+.section__content {
+    background: url('img/industry.png') repeat 50% 50%;
+}
+
+.content {
+    min-height: 900px;
+}
+
 a:link
 {
     color: #ffffff;
